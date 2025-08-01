@@ -1,4 +1,3 @@
-```markdown
 # 🧠 NeuralAI
 
 **NeuralAI** is your intelligent AI assistant developed by **BlackRose**.  
@@ -64,4 +63,3 @@ Reach out to us at **teamblackroose@gmail.com**
 ---
 
 *Crafted with precision and passion by the BlackRose team.*
-```
