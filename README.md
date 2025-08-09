@@ -1,5 +1,7 @@
 # 🧠 NeuroAI
 
+![NeuroAI](logo.png)
+
 **NeuroAI** is your intelligent AI assistant developed by **BlackRose**.  
 It can **chat like a human** and **understand images** — blending language and vision to deliver powerful, interactive experiences.
 
